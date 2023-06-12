@@ -1,0 +1,9 @@
+Package: alias20.speedy
+Name: Speedy
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Next generation of FastAnimator
+Maintainer: alias20
+Author: alias20
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
